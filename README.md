@@ -28,4 +28,3 @@
 ## Acknowledgements
 - This project was inspired by 100 Days of Code - The Complete Python Pro Bootcamp - Angela Yu.
 
-- You don't have to include all sections - just the one's relevant to your project -->
